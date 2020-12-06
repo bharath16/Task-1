@@ -1,3 +1,8 @@
+
+# The Task 3 Web Developement.
+
+I have done the Backend part for the web developement using FLASK server. The Front-ENd part is done using React were BAsic JSX part are delivered without integrating with the front-end.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
